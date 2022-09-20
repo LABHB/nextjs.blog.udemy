@@ -26,7 +26,7 @@ export default function Home( {allPostsData} ) {
         </title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>フルスタックエンジニアになれるように修行中</p>
+        <p>NEXTgit エンジニアになれるように修行中</p>
       </section>
       <section>
         <div>
